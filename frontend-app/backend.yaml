@@ -9,7 +9,7 @@ metadata:
     managed-by: kubernetes
 
 spec:
-  replicas: 2
+  replicas: 3
 
   revisionHistoryLimit: 5
   minReadySeconds: 10
