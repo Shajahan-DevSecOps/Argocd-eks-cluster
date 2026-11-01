@@ -14,7 +14,7 @@ spec:
   # The Argo CD project this application belongs to
   project: default
 
-  ource:
+  source:
     repoURL: https://github.com/shajahan-devops1/Argocd-eks-cluster.git
     targetRevision: main
     path: frontend-app
